@@ -1,4 +1,4 @@
 id,name,city,capacity,available
 123,Hotel Wroclove,Wroclaw,4,no
-456,Hotel Wawel,Krakow,5,no
-789,Hotel Bucovina,Zakopane,3,no
+456,Hotel Wawel,Krakow,5,yes
+789,Hotel Bucovina,Zakopane,3,yes
